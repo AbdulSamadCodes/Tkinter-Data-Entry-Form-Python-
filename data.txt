@@ -1,0 +1,9 @@
+---------STUDENT--------
+
+Name: Abdul  Samad
+Gender : Male
+Age : 20
+Regitered : Currently Registered
+Courses completed : 10
+Semesters completed 3
+Nationality : Pakistan
